@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Terraform setup sepractest
+# Terraform setup Aws
 <small><b><i>Terraform</i></b> is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions.</small> Configuration files in this directory creates to setup ec2 instances, lambda function, cloudwatch event, s3, dynamodb, and route53(DNS) on Amazon Web Service as a provider. 
 
 ## Prerequisites
@@ -11,7 +10,7 @@
 <ul>
   <li>
     Clone repository to your directory 
-    <code>$ git clone https://github.com/GDP-ADMIN/intern-setup-sepractest.git && cd intern-setup-sepractest</code>
+    <code>$ git clone https://github.com/iv1310/Terraform_Aws.git && cd Terraform_Aws</code>
   </li>
   <li>
     After placing it into your work directory, run
@@ -32,7 +31,4 @@
     <code>$ terraform show</code>
   </li>
 </ul>
-=======
-# Terraform_Aws
-This project using terraform to setup aws infrastructure
->>>>>>> 8a17a2a6eca179f53f5a432b9aa65ceb24e19f4a
+
