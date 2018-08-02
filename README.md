@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Terraform setup sepractest
 <small><b><i>Terraform</i></b> is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions.</small> Configuration files in this directory creates to setup ec2 instances, lambda function, cloudwatch event, s3, dynamodb, and route53(DNS) on Amazon Web Service as a provider. 
 
@@ -31,3 +32,7 @@
     <code>$ terraform show</code>
   </li>
 </ul>
+=======
+# Terraform_Aws
+This project using terraform to setup aws infrastructure
+>>>>>>> 8a17a2a6eca179f53f5a432b9aa65ceb24e19f4a
