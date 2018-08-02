@@ -1,3 +1,11 @@
+# Ignore file named `main.py`
 main.py
+
+# Ignore file named `function.py`
 function.py
+
+# Ignore file named `terraform.pem`
 terraform.pem
+
+# Ignore folder named `.terraform`
+.terraform/
