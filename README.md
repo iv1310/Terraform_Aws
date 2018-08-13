@@ -3,7 +3,7 @@
 
 ## Prerequisites
 <ul>
-  <li>Should have <b>AWS</b><i>secret key</i> and <i>access key</i> on local machine (home directory)</li>
+  <li>Should have <b>AWS</b> <i>secret key</i> and <i>access key</i> on local machine (home directory)</li>
 </ul>
 
 ## Usage 
